@@ -1,0 +1,52 @@
+/**
+ * sw for Sites by Sudo
+ * Version 6.3.0
+ * sudo.org.au
+ * Licensed under MIT Open Source
+ */
+/*
+ * Height mesured in 1 to 5.
+ * Adds Box-Shadow to elements
+ */
+/*
+ * Height mesured in 1 to 5.
+ * Adds Box-Shadow to elements
+ */
+/* Gradients */
+/*
+ * Height mesured in 1 to 5.
+ * Adds Box-Shadow to elements
+ */
+/*
+ * Height mesured in 1 to 5.
+ * Adds Box-Shadow to elements
+ */
+section#hero {
+  background-image: url("/home/images/bg.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+  color: #FFF; }
+  section#hero .row {
+    height: 100%; }
+  section#hero h1 {
+    font-size: 42px;
+    color: white;
+    font-weight: 500;
+    line-height: 1;
+    margin: 0; }
+  section#hero h2 {
+    font-size: 30px;
+    font-weight: 500;
+    color: #1866cf;
+    line-height: 1;
+    margin: 0; }
+  section#hero p {
+    font-size: 20px;
+    color: #7e7e7e;
+    line-height: 1;
+    margin: 0;
+    margin-top: 30px; }
+  section#hero a {
+    color: #1866cf; }

@@ -1,0 +1,44 @@
+@import "../../../bower_components/sudo-web-framework/scss/sudoweb";
+
+section {
+	&#hero {
+		background-image: url('/home/images/bg.jpg');
+		background-size: cover;
+		background-position: center;
+		width: 100%;
+		height: 100%;
+		color: #FFF;
+
+		.row {
+			height: 100%;
+		}
+
+		h1 {
+			font-size: 42px;
+			color: rgb(255, 255, 255);
+			font-weight: 500;
+			line-height: 1;
+			margin: 0;
+		}
+
+		h2 {
+			font-size: 30px;
+			font-weight: 500;
+			color: rgb(24, 102, 207);
+			line-height: 1;
+			margin: 0;
+		}
+
+		p {
+			font-size: 20px;
+			color: rgb(126, 126, 126);
+			line-height: 1;
+			margin: 0;
+			margin-top: 30px;
+		}
+
+		a {
+			color: rgb(24, 102, 207);
+		}
+	}
+}
