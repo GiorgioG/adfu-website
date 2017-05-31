@@ -1,7 +1,6 @@
 bower_components/
 node_modules/
 .vagrant/
-config.code*
 *.scssc
 .DS_Store
 custom-hosts
